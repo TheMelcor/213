@@ -1,3 +1,1 @@
-Develop branch of the plains enviroment. 
-
-ToDO - push the intial object files and textures
+Tiles will be placed here. Tiles are the general enviroment. Not to be confused with objects. 
