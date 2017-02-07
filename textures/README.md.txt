@@ -1,3 +1,1 @@
-Develop branch of the plains enviroment. 
-
-ToDO - push the intial object files and textures
+Textures are to be placed here, regardless if they are connected to the enviroment or objects. 
