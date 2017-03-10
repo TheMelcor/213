@@ -1,0 +1,294 @@
+body {
+  margin: 0;
+  height: 100%;
+}
+
+
+
+.pagewrapper {
+
+}
+
+/* Header/Section1 */
+.header {
+
+}
+
+.headerDeco {
+float: right;
+width: 7vw;
+height: 1vh;
+background: #ffecf6;
+}
+
+#section1 {
+  background: #fafafa;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+  width: 100% ;
+}
+
+#section1 p {
+    color: #3a3aff;
+    text-align: inherit;
+    line-height: 4.6vh;
+    font-size: 2.2vw;
+    font-family: 'Avenir Next';
+    font-weight: 100;
+    text-align: right;
+}
+
+#icons {
+  position: absolute;
+  right: 4.5vw;
+  top: 5vh;
+  max-width: 100px;
+  max-height: 50px;
+}
+
+#icons img {
+  object-fit: scale-down;
+}
+
+/* Pagination */
+.pagination {
+  width: 214px;
+  height: 60px;
+  padding: 15px 0;
+  position: fixed;
+ top: 5vh;
+ z-index: 20;
+ margin: 0 auto;
+ width: 250px;
+}
+
+  .pagination .prev,
+  .pagination .next {
+    width: 77px;
+    height: 30px;
+    position: absolute;
+  }
+    .pagination .prev::before,
+    .pagination .next::before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 15px;
+      width: 57px;
+      height: 1px;
+      background-color: #000;
+      transition: all 0.4s ease;
+    }
+    .pagination .prev::after,
+    .pagination .next::after {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 10.5px;
+      width: 8px;
+      height: 8px;
+      -webkit-transform: rotate(-45deg);
+      transform: rotate(-45deg);
+      transition: all 0.4s cubic-bezier(0.18, 0.57, 0.51, 1); }
+
+    .pagination .prev span,
+    .pagination .next span {
+      letter-spacing: 1.3px;
+      font-family: 'Andale Mono';
+      color: #000;
+      font-size: 0.8em;
+      line-height: 30px;
+      text-align: right;
+      opacity: 0;
+      transition: all 0.4s cubic-bezier(0.18, 0.57, 0.51, 1); }
+    .pagination .prev:hover::before,
+    .pagination .next:hover::before {
+      width: 0px;
+      background-color: #000;
+    }
+    .pagination .prev:hover::after,
+    .pagination .next:hover::after {
+      border-top-color: #000;
+      border-left-color: #000;
+      border-bottom-color: #000;
+      border-right-color: #000;
+    }
+    .pagination .prev:hover span,
+    .pagination .next:hover span {
+      opacity: 1;
+      transition-delay: 0.15s;
+    }
+  .pagination .prev::before {
+    left: 20px;
+  }
+  .pagination .prev::after {
+    left: 20px;
+    border-top: solid 1px #000;
+    border-left: solid 1px #000;
+  }
+  .pagination .prev:hover::before, .pagination .prev:hover::after {
+    left: -80px;
+  }
+  .pagination .prev span {
+    float: right;
+  }
+  .pagination .next {
+    right: 0px;
+    top: 15px;
+  }
+    .pagination .next::before {
+      right: 20px;
+    }
+    .pagination .next::after {
+      right: 20px;
+      border-bottom: solid 1px #000;
+      border-right: solid 1px #000;
+    }
+    .pagination .next:hover::before, .pagination .next:hover::after {
+      right: -80px;
+    }
+    .pagination .next span {
+      float: left;
+    }
+
+.pagination .pageCounter {
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    border-radius: 60%;
+    border: dotted 1px #000;
+    color: #000;
+    font-family: 'Open Sans' sans-serif;
+    font-weight: 100;
+}
+
+
+.headertxt h1 {
+  flex: 1;
+  font-family: 'Source Code Pro';
+  font-weight: 300;
+  letter-spacing: 8px;
+  color:#3a3aff;
+  font-size: 7vw;
+  /*filter: blur(0.5px);*/
+  text-transform: uppercase;
+/*text-shadow: 5px 2px 0 #ffff3a;*/
+}
+
+/* Section 2 */
+#section2 {
+  height: 100vh;
+  width: 100vw;
+  background: #fafafa;
+/*  border-top: 1px dashed #3a3aff;*/
+/*  background-image: linear-gradient(to left, rgba(58, 58, 255, 0.5) 0.5%,
+rgba(246, 233, 243, 0.7) 50%, rgba(58, 58, 255, 0.5) 100%),
+                   linear-gradient(to left, rgba(58, 58, 255, 1) 0.4%,
+                   rgba(58, 58, 255, 0.7) 50%, rgba(58, 58, 255, 0.5) 0%);
+ background-size: 100% 1px;
+ background-position: 0% 0%, 0% 100%;
+ background-repeat: no-repeat;*/
+ justify-content: center;
+ align-items: flex-start;
+ display: inline-flex;
+ padding-top: 22vh;
+}
+
+#section2:after {
+  background-image: linear-gradient(to left, rgba(58, 58, 255, 0.5) 0.5%,
+  rgba(246, 233, 243, 0.7) 50%, rgba(58, 58, 255, 0.5) 100%),
+                     linear-gradient(to left, rgba(58, 58, 255, 1) 0.4%,
+                     rgba(58, 58, 255, 0.7) 50%, rgba(58, 58, 255, 0.5) 0%);
+   background-size: 100% 1px;
+   background-position: 0% 0%, 0% 100%;
+   background-repeat: no-repeat;
+}
+
+#section2 h1 {
+  color: #00b190;
+  font-family: 'Andale Mono';
+  letter-spacing: 4px;
+  font-size: 5vw;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.dashedBorder {
+  border-top: 1px dashed #fafafa;
+  background-image: linear-gradient(to left, rgba(58, 58, 255, 0.5) 0.5%,
+  rgba(255, 236, 246, 1) 50%, rgba(58, 58, 255, 0.5) 100%),
+                     linear-gradient(to left, rgba(58, 58, 255, 1) 0.4%,
+                     rgba(58, 58, 255, 0.7) 50%, rgba(58, 58, 255, 0.5) 0%);
+  background-size: 100% 1px;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+
+/* Navbar */
+#headerbox {
+  left: 0;
+  display: none;
+  background-color: #dcf9ef;
+  right:0;
+  top:0;
+  position: fixed;
+  z-index: 15;
+  transition-duration: 1s;
+  box-shadow: 0 1.5px 1px rgba(240, 240, 240, 0.6);
+  height: 80px;
+}
+
+#headerbox ul {
+  display: block;
+  text-align: center;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#headerbox ul li {
+  display: inline-block;
+  list-style-type: none;
+  margin-top: 15px;
+}
+
+.buttons {
+    border: hidden;
+    color: rgb(47, 47, 47);
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+    cursor: pointer;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    font-family: 'roboto', sans-serif;
+    font-weight: 800;
+}
+
+.buttons:hover {
+  color: rgb(178, 135, 184);
+  -o-transition:.3s;
+  -ms-transition:.3s;
+  -moz-transition:.3s;
+  -webkit-transition:.3s;
+   transition:.4s;
+   font-family: 'roboto', sans-serif;
+   font-weight: bold;
+}
+
+.buttons:active {
+  outline: none;
+  color: rgb(178, 135, 184);
+}
