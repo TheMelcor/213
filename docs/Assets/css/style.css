@@ -18,8 +18,13 @@ body {
 float: right;
 width: 7vw;
 height: 1vh;
-background: #ffecf6;
+background: #f04966;
 }
+
+/* Section 1
+--------------------------------------
+
+-------------------------------------- */
 
 #section1 {
   background: #fafafa;
@@ -40,6 +45,7 @@ background: #ffecf6;
     text-align: right;
 }
 
+/* GitHub Icon */
 #icons {
   position: absolute;
   right: 4.5vw;
@@ -52,7 +58,14 @@ background: #ffecf6;
   object-fit: scale-down;
 }
 
-/* Pagination */
+#icons img:hover {
+  opacity: 0.6;
+}
+
+/* Pagination
+--------------------------------------
+
+-------------------------------------- */
 .pagination {
   width: 214px;
   height: 60px;
@@ -168,7 +181,7 @@ background: #ffecf6;
     font-weight: 100;
 }
 
-
+/* Heading */
 .headertxt h1 {
   flex: 1;
   font-family: 'Source Code Pro';
@@ -181,19 +194,16 @@ background: #ffecf6;
 /*text-shadow: 5px 2px 0 #ffff3a;*/
 }
 
-/* Section 2 */
+/* Section 2
+
+--------------------------------------
+
+-------------------------------------- */
+
 #section2 {
   height: 100vh;
   width: 100vw;
   background: #fafafa;
-/*  border-top: 1px dashed #3a3aff;*/
-/*  background-image: linear-gradient(to left, rgba(58, 58, 255, 0.5) 0.5%,
-rgba(246, 233, 243, 0.7) 50%, rgba(58, 58, 255, 0.5) 100%),
-                   linear-gradient(to left, rgba(58, 58, 255, 1) 0.4%,
-                   rgba(58, 58, 255, 0.7) 50%, rgba(58, 58, 255, 0.5) 0%);
- background-size: 100% 1px;
- background-position: 0% 0%, 0% 100%;
- background-repeat: no-repeat;*/
  justify-content: center;
  align-items: flex-start;
  display: inline-flex;
@@ -211,12 +221,37 @@ rgba(246, 233, 243, 0.7) 50%, rgba(58, 58, 255, 0.5) 100%),
 }
 
 #section2 h1 {
-  color: #00b190;
+  color: #f04966;
   font-family: 'Andale Mono';
   letter-spacing: 4px;
   font-size: 5vw;
   text-transform: uppercase;
   text-align: left;
+  font-weight: 100;
+}
+
+/* Section 3
+--------------------------------------
+
+-------------------------------------- */
+#section3 {
+  height: 100vh;
+  width: 100vw;
+  background: #fafafa;
+ justify-content: center;
+ align-items: flex-start;
+ display: inline-flex;
+ padding-top: 22vh;
+}
+
+#section3 h1 {
+  color: #3a3aff;
+  font-family: 'Andale Mono';
+  letter-spacing: 4px;
+  font-size: 5vw;
+  text-transform: uppercase;
+  text-align: left;
+  font-weight: 100;
 }
 
 .dashedBorder {
@@ -234,7 +269,10 @@ rgba(246, 233, 243, 0.7) 50%, rgba(58, 58, 255, 0.5) 100%),
   z-index: 20;
 }
 
-/* Navbar */
+/* Navbar
+--------------------------------------
+
+-------------------------------------- */
 #headerbox {
   left: 0;
   display: none;
