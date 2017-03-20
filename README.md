@@ -1,15 +1,10 @@
 **This readme will be updated as more details are clear**
 
 1: Use the readme, and if unsure - ask before doing anything
-
 2: Use pull request to start the process of contribute to the project, and again - ask if unsure
-
 3: Never push into master, fork and work in seprate branches which in time can be merged into developer branch (called dev)
-
 4: We are honored by the interest of other people and contributions & interests. This is an open sources project and we will strive to accept most of the contributions as long as they do not violate some part of point #5
-
 5: No copyrighted material, no offensive (in terms of racisms, hate and so on) material are to be contributed into the project
-
 6: No profitable gains are to be received by this. You might use any assets from this project however you like, but no profitable gains are to be gained
 
 **Below we have given specific details on the assets related to the game, please take a moment to read them before contributing**
