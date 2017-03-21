@@ -20,7 +20,7 @@ All textures, regardless if they belong to tiles, objects or characters are to b
 
 **Tiles (the environment)**
 
-Tiles are the enviroment itself (and in this case planes, a grassy, green and lush enviroment). The game will support several enviroments, but currently the main focus is to create tileset for the planes enviroment. The enviroment have a set size, due to randomnice tile feature (different types of same tileset can be put togheter to create some variety and re-playability). The size is set to 10 x 10 metres. Hight is not specified yet, but currently the standard has been set to 4 metres (rock sides and so on). More details around this will come at a later time but for now use those measures.
+Tiles are the enviroment itself (and in plains caseit is a grassy, green and lush enviroment). The game will support several enviroments, but currently the main focus is to create tileset for the planes enviroment. The enviroment have a set size, due to randomnice tile feature (different types of same tileset can be put togheter to create some variety and re-playability). The size is set to 10 x 10 metres. Hight is not specified yet, but currently the standard has been set to 4 metres (rock sides and so on). More details around this will come at a later time but for now use those measures.
 
 **Objects**
 
