@@ -1,4 +1,4 @@
-**This readme will be updated as more details are clear**
+**This readme will be updated as more details are clear!**
 
 1: Use the readme, and if unsure - ask before doing anything
 
