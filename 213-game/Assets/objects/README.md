@@ -21,3 +21,5 @@ Objects are the things you will enounter / see in the enviroment itself. This me
 9: woodenBarrelAnimatedWater02
 
 10: woodenBarrelWithFlowers
+
+11: doorAnimated01
