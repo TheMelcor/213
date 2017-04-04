@@ -1,7 +1,7 @@
 ## Table of contents
 
 * [License](#License)
-* [Specification of the assets](#Specification of the assets)
+* [Specification of the assetss](#Specification of the assets)
 * [Licence](#licence)
 * [Credits](#credits-for-open-repositiories)
 
