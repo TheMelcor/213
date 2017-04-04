@@ -3,7 +3,7 @@
 
 ## Table of contents
 
-* [Specification of assets contributions](#Specification-of-assets-contributions)
+* [Specification of assets contributions](##Specification-of-assets-contributions)
   * [Naming convention](#Naming-convention)
   * [Textures](#Textures)
   * [Tiles (the environment)](#Tiles-(the-environment))
