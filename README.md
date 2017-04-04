@@ -1,16 +1,14 @@
+#
+
+
 ## Table of contents
 
-* [License](#License)
-* [Specification of the assetss](#Specification-of-the-assets)
+* [Specification of assets contributions](#Specification-of-assets-contributions)
 * [Licence](#licence)
 * [Credits](#credits-for-open-repositiories)
 
 
-## License
-[GPL3.0](https://github.com/TheMelcor/213/blob/master/LICENSE)
-
-
-## Specification of the assets
+## Specification of assets contributions
 
 **Naming convention**
 
@@ -36,5 +34,10 @@ Game characters are an generalization of both human player and the AI. It can be
 
 Audio is the sounds of the game, both in terms of character / object sounds but also music. The format to use ise MP3 in either 128kbps or 256kbps bitrate. Please check the section and issues / project to see what sounds is allready implemented and which one is neeeded. Also keep in mind peaks and lows on audio recordings to prevent audio clipping or noticeable disturbance. 
 
-**Credits**
+
+## License
+[GPL3.0](https://github.com/TheMelcor/213/blob/master/LICENSE)
+
+
+## Credits
 https://github.com/Cmoen11/BuffBot for guidance of functional readme / instruction page
