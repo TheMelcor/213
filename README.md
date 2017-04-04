@@ -5,8 +5,8 @@
 * [Licence](#licence)
 * [Credits](#credits-for-open-repositiories)
 
-**License
-[GPL3.0]**(https://github.com/TheMelcor/213/blob/master/LICENSE)
+##License
+[GPL3.0](https://github.com/TheMelcor/213/blob/master/LICENSE)
 
 ## Specification of the assets
 
