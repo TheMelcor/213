@@ -1,12 +1,14 @@
 ## Table of contents
 
 * [License](#License)
-* [Specification of the assetss](#Specification of the assets)
+* [Specification of the assetss](#Specification-of-the-assets)
 * [Licence](#licence)
 * [Credits](#credits-for-open-repositiories)
 
+
 ## License
 [GPL3.0](https://github.com/TheMelcor/213/blob/master/LICENSE)
+
 
 ## Specification of the assets
 
