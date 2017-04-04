@@ -1,20 +1,14 @@
-**This readme will be updated as more details are clear!**
+## Table of contents
 
-1: Use the readme, and if unsure - ask before doing anything
+* [License](#License)
+* [Specification of the assets](#Specification of the assets)
+* [Licence](#licence)
+* [Credits](#credits-for-open-repositiories)
 
-2: Use pull request to start the process of contribute to the project, and again - ask if unsure
-
-3: Never push into master, fork and work in seprate branches which in time can be merged into developer branch (called dev)
-
-4: We are honored by the interest of other people and contributions & interests. This is an open sources project and we will strive to accept most of the contributions as long as they do not violate some part of point #5
-
-5: No copyrighted material, no offensive (in terms of racisms, hate and so on) material are to be contributed into the project
-
-**License**
-
+**License
 [GPL3.0](https://github.com/TheMelcor/213/blob/master/LICENSE)
 
-Below we have given specific details on the assets related to the game, please take a moment to read them before contributing
+## Specification of the assets
 
 **Naming convention**
 
@@ -39,3 +33,6 @@ Game characters are an generalization of both human player and the AI. It can be
 **Audio**
 
 Audio is the sounds of the game, both in terms of character / object sounds but also music. The format to use ise MP3 in either 128kbps or 256kbps bitrate. Please check the section and issues / project to see what sounds is allready implemented and which one is neeeded. Also keep in mind peaks and lows on audio recordings to prevent audio clipping or noticeable disturbance. 
+
+**Credits**
+https://github.com/Cmoen11/BuffBot for guidance of functional readme / instruction page
