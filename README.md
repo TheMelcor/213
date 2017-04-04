@@ -10,7 +10,9 @@
 
 5: No copyrighted material, no offensive (in terms of racisms, hate and so on) material are to be contributed into the project
 
-6: No profitable gains are to be received by this. You might use any assets from this project however you like, but no profitable gains are to be gained
+**License**
+
+[GPL3.0](https://github.com/TheMelcor/213/blob/master/LICENSE)
 
 Below we have given specific details on the assets related to the game, please take a moment to read them before contributing
 
