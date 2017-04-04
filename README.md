@@ -14,6 +14,10 @@
 
 Below we have given specific details on the assets related to the game, please take a moment to read them before contributing
 
+**Naming convention**
+
+When naming assets, please enforce logical naming (an barrel object would be named a barrel while a charater sounds would be named something like characterAction01). The start of the name should be with lower case, and new words should be upper case without space or underscore. Examples on this can be characterAction01, doorAnimated02, musicCalm01 and so on. Number the assets is preferable when there are several different types of assets with same name. Numbering should be done two diggits, as we suspect we won't get over 99 different assets with same name. 
+
 **Textures**
 
 All textures, regardless if they belong to tiles, objects or characters are to be placed in the texture folder. The texture format is not important, but preferable png due to it's alpha channel support (transparent colors and some other features that the jpg format do not support). Also it is preferable that textures are in size of power of two (like 128 / 128 , 256 / 256, 512 / 512, 1024 / 1024 and so on). It is possible to have various sizes, like 1025 / 256, but keep power of two in mind.
