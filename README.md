@@ -1,10 +1,11 @@
-#
+# The Game (obvious placeholder is obvious)
 
 
 ## Table of contents
 
 * [Specification of assets contributions](#Specification-of-assets-contributions)
-* [Licence](#licence)
+* [License](#license)
+  * [Naming convention](#Naming-convention)
 * [Credits](#credits-for-open-repositiories)
 
 
