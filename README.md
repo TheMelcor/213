@@ -4,8 +4,13 @@
 ## Table of contents
 
 * [Specification of assets contributions](#Specification-of-assets-contributions)
+ * [Naming convention](#Naming-convention)
+ * [Textures](#Textures)
+ * [Tiles (the environment)](#Tiles-(the-environment))
+ * [Objects](#Objects)
+ * [Game characters](#Game-characters)
+ * [Audio](#Audio)
 * [License](#license)
-  * [Naming convention](#Naming-convention)
 * [Credits](#credits-for-open-repositiories)
 
 
