@@ -3,7 +3,7 @@
 
 ## Table of contents
 
-* [Specification of assets contributions](##Specification-of-assets-contributions)
+* [Specification of assets contributions](#Specification-of-assets-contributions)
   * [Naming convention](#Naming-convention)
   * [Textures](#Textures)
   * [Tiles (the environment)](#Tiles-(the-environment))
@@ -11,7 +11,7 @@
   * [Game characters](#Game-characters)
   * [Audio](#Audio)
 * [License](#license)
-* [Credits](#credits-for-open-repositiories)
+* [Credits](#credits)
 
 
 ## Specification of assets contributions
