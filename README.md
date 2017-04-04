@@ -14,6 +14,10 @@
 
 Below we have given specific details on the assets related to the game, please take a moment to read them before contributing
 
+**Naming convention**
+
+When naming assets, please enforce logical naming (an barrel object would be named a barrel while a charater sounds would be named something like characterAction01). The start of the name should be with lower case, and new words should be upper case without space or underscore. Examples on this can be characterAction01, doorAnimated02, musicCalm01 and so on. Number the assets is preferable when there are several different types of assets with same name. Numbering should be done two diggits, as we suspect we won't get over 99 different assets with same name.
+
 **Textures**
 
 All textures, regardless if they belong to tiles, objects or characters are to be placed in the texture folder. The texture format is not important, but preferable png due to it's alpha channel support (transparent colors and some other features that the jpg format do not support). Also it is preferable that textures are in size of power of two (like 128 / 128 , 256 / 256, 512 / 512, 1024 / 1024 and so on). It is possible to have various sizes, like 1025 / 256, but keep power of two in mind.
@@ -29,3 +33,7 @@ Objects are the things you will enounter / see in the enviroment itself. This me
 **Game characters**
 
 Game characters are an generalization of both human player and the AI. It can be the human controlled character, it can be friendly AI controller players, enemies / foes or general objects that should act as a living thing. Ideally, the characters should support animations. An human controlled character should have an idle state (what does it do when just standing still and doing nothing, breathing and small motoristic movements), an movement staee (jogs / runs, heavy movement with both upper and lower body, more visually affected by the the forces of nature) and an attack state (swings towards certain direction with the upper body and arms to hit something, might coupled with a defensive back-track shortly after). As of timeframe the animations should be short, ideally within 100 frames at 1 / 1 speed (in 3ds max, but it's not that important as we can scale the speed to fit the game on our part). As before, the character sohuld be game-ready and withing the 5 diggits polycount and placed in the gameCharacter folder (within Assets).
+
+**Audio**
+
+Audio is the sounds of the game, both in terms of character / object sounds but also music. The format to use ise MP3 in either 128kbps or 256kbps bitrate. Please check the section and issues / project to see what sounds is allready implemented and which one is neeeded. Also keep in mind peaks and lows on audio recordings to prevent audio clipping or noticeable disturbance. 
