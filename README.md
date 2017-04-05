@@ -3,7 +3,7 @@
 
 ## Table of contents
 
-* [Contribution](#Contribution)
+* [Contribution](#contribution)
   * [Naming convention](#Naming-convention)
   * [Textures](#Textures)
   * [Tiles (the environment)](#Tiles-(the-environment))
