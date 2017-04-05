@@ -5,7 +5,7 @@
 
 * [Contribution](#contribution)
   * [Naming convention](#naming-convention)
-  * [Textures](##textures)
+  * [Textures](textures)
   * [Tiles (the environment)](#tiles-(the-environment))
   * [Objects](#objects)
   * [Game characters](#game-characters)
