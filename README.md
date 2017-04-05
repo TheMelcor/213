@@ -4,12 +4,12 @@
 ## Table of contents
 
 * [Contribution](#contribution)
- * [Naming convention](#naming-convention)
- * [Textures](#textures)
- * [Tiles (the environment)](#tiles-(the-environment))
- * [Objects](#objects)
- * [Game characters](#game-characters)
- * [Audio](#audio)
+    * [Naming convention](#naming-convention)
+    * [Textures](#textures)
+    * [Tiles (the environment)](#tiles-(the-environment))
+    * [Objects](#objects)
+    * [Game characters](#game-characters)
+    * [Audio](#audio)
 * [License](#license)
 * [Credits](#credits)
 
