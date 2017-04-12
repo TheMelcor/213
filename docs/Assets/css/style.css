@@ -28,7 +28,7 @@ background: #f04966;
 
 #section1 {
   background: #fafafa;
-  height: 100vh;
+  min-height: 85vh;
   justify-content: center;
   align-items: center;
   display: inline-flex;
@@ -60,6 +60,19 @@ background: #f04966;
 
 #icons img:hover {
   opacity: 0.6;
+}
+
+/* Heading */
+.headertxt h1 {
+  flex: 1;
+  font-family: 'Source Code Pro';
+  font-weight: 300;
+  letter-spacing: 7.5px;
+  color:#3a3aff;
+  font-size: 6vw;
+  /*filter: blur(0.5px);*/
+  text-transform: uppercase;
+/*text-shadow: 5px 2px 0 #ffff3a;*/
 }
 
 /* Pagination
@@ -181,18 +194,7 @@ background: #f04966;
     font-weight: 100;
 }
 
-/* Heading */
-.headertxt h1 {
-  flex: 1;
-  font-family: 'Source Code Pro';
-  font-weight: 300;
-  letter-spacing: 8px;
-  color:#3a3aff;
-  font-size: 7vw;
-  /*filter: blur(0.5px);*/
-  text-transform: uppercase;
-/*text-shadow: 5px 2px 0 #ffff3a;*/
-}
+
 
 /* Section 2
 
@@ -201,7 +203,7 @@ background: #f04966;
 -------------------------------------- */
 
 #section2 {
-  height: 100vh;
+  height: 40vh;
   width: 100vw;
   background: #fafafa;
  justify-content: center;
@@ -224,7 +226,7 @@ background: #f04966;
   color: #f04966;
   font-family: 'Andale Mono';
   letter-spacing: 4px;
-  font-size: 5vw;
+  font-size: 70px;
   text-transform: uppercase;
   text-align: left;
   font-weight: 100;
@@ -235,24 +237,142 @@ background: #f04966;
 
 -------------------------------------- */
 #section3 {
-  height: 100vh;
+  min-height: 500px;
   width: 100vw;
-  background: #fafafa;
  justify-content: center;
  align-items: flex-start;
- display: inline-flex;
- padding-top: 22vh;
+ margin: 0 auto;
+ padding-top: 50px;
+ text-align: center;
+ padding-bottom: 50px;
+ border-top: 1px dashed #f04966;
+ border-bottom: 1px dashed #f04966;
 }
 
 #section3 h1 {
-  color: #3a3aff;
+  color: #f04966;
   font-family: 'Andale Mono';
   letter-spacing: 4px;
   font-size: 5vw;
   text-transform: uppercase;
-  text-align: left;
+
   font-weight: 100;
+  margin: 0 auto;
 }
+
+#section3 p {
+  text-align: justify;
+  line-height: 30px;
+  font-family: 'Muli';
+  overflow: visible;
+  margin: 0 auto;
+  font-weight: 100;
+  letter-spacing: 1.5px;
+  font-size: 16px;
+}
+
+ #section3 h2 {
+   font-family: 'Andale Mono';
+   text-transform: uppercase;
+   font-weight: 100;
+   margin: 0 auto;
+     padding-bottom: 30px;
+}
+
+/* Demo
+------------------
+------------------*/
+#demoSection {
+  min-height: 500px;
+  width: 100vw;
+  /*background: #87ddc1;*/
+  border-top: 1px dashed #3a3aff;
+  border-bottom: 1px dashed #3a3aff;
+ justify-content: center;
+ align-items: flex-start;
+ margin: 0 auto;
+ padding-top: 50px;
+ text-align: center;
+ padding-bottom: 50px;
+}
+
+#demoSection h2 {
+  font-family: 'Andale Mono';
+  text-transform: uppercase;
+  font-weight: 100;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+/* Section 4
+--------------------------------------
+
+-------------------------------------- */
+
+#section4 {
+  min-height: 40vh;
+  width: 100vw;
+  background: #fafafa;
+  text-align: center;
+ padding-top: 5vh;
+ padding-bottom: 5vh;
+ border-top: 1px dashed #d3d3d3;
+}
+
+#section4 h2 {
+    font-family: 'Andale Mono';
+    text-transform: uppercase;
+    font-weight: 100;
+    margin: 0 auto;
+}
+
+#section4 p {
+  padding-top: 30px;
+  width: 55vw;
+  margin: 0 auto;
+  text-align: justify;
+  line-height: 30px;
+  font-family: 'Muli';
+  font-weight: 100;
+  letter-spacing: 1.5px;
+  font-size: 16px;
+}
+
+#section4 h1 {
+  color: #f04966;
+  font-family: 'Andale Mono';
+  letter-spacing: 4px;
+  font-size: 5vw;
+  text-transform: uppercase;
+  font-weight: 100;
+  margin: 0 auto;
+}
+
+
+.contentBox {
+  width: 55vw;
+  padding: 20px;
+  margin: 0 auto;
+  min-height: 400px;
+  background: rgba(0, 0, 0, 0.1);
+  box-shadow:
+}
+
+.contentBox2 {
+  width: 100vw;
+  margin: 0 auto;
+  min-height: 400px;
+  background: rgba(255, 255, 255, 0.3);
+  box-shadow:
+}
+
+.contentBox2 iframe {
+  width: 60vw;
+  height: 70vh;
+  background: #fff;
+}
+
+
 
 .dashedBorder {
   border-top: 1px dashed #fafafa;
@@ -330,3 +450,34 @@ background: #f04966;
   outline: none;
   color: rgb(178, 135, 184);
 }
+
+@media screen and (max-width: 600px) {
+  .contentBox2 iframe {
+    width: 90vw;
+    height: auto;
+  }
+  #section2 h1 {
+    font-size: 35px;
+    text-align: center;
+    line-height: 40px;
+  }
+  #section3 p {
+    font-size: 14px;
+  }
+  #section4 p {
+    font-size: 14px;
+  }
+  #section1 h1 {
+    font-size: 30px;
+  }
+  #section1 p {
+    font-size: 14px;
+  }
+  }
+
+  @media screen and (max-width: 1024px) {
+    .contentBox2 iframe {
+      width: 80vw;
+      height: 40vh;
+    }
+    }
