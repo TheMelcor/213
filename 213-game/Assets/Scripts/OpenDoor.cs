@@ -3,15 +3,32 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class OpenDoor : MonoBehaviour {
+    public GameObject DoorObject;
 
-	// Use this for initialization
-	void Start () {
-        var Take 001 : Animation;
-        var DoorObject : GameObject;
+    public OpenDoor(GameObject obj)
+    {
+        this.DoorObject = obj;
     }
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    
+    
+    public void start()
+    {
+
+    }
+
+    public void update()
+    {
+
+    }
+
+    public void OnTriggerEnter (Collider col)
+    {
+        if(col.gameObject.tag == "Player")
+        {
+            Animation test; 
+            test = DoorObject.GetComponent<Animation>();
+            test.Play();
+            Destroy(gameObject);
+        }
+    }
 }
