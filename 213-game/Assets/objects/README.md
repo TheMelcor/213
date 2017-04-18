@@ -39,3 +39,7 @@ Objects are the things you will enounter / see in the enviroment itself. This me
 18: rock05
 
 19: treeWithLeaves01
+
+20: doorAnimatedOpening01
+
+21: doorAnimatedClosing01
