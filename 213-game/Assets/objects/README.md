@@ -23,3 +23,19 @@ Objects are the things you will enounter / see in the enviroment itself. This me
 10: woodenBarrelWithFlowers
 
 11: doorAnimated01
+
+12: deadTree01
+
+13: deadTree02
+
+14: rock01
+
+15: rock02
+
+16: rock03
+
+17: rock04
+
+18: rock05
+
+19: treeWithLeaves01
