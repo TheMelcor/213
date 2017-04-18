@@ -1,0 +1,1 @@
+Music! The format should be MP3 in either 128kbps or 256kbps bitrate. Ideally the music transitions should tune in / out or be seamless, and not too distinct starting / ending, but this is open for interprid and mostly up to the author to deside (you cannot argue with the artists they say)!
