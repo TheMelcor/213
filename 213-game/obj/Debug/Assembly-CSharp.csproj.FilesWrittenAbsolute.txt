@@ -1,0 +1,17 @@
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/UnityEngine.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/UnityEditor.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tinahollelandkvist/Documents/Github desktop/213/213-game/Temp/bin/Debug/Mono.Cecil.Mdb.dll
