@@ -63,4 +63,4 @@ As this game is a roguelike game, there is no clear main scenario or story. The 
 ## Credits
 https://github.com/Cmoen11/BuffBot for guidance of functional readme / instruction page 
 
-![picture](https://postimg.org/image/413mhqov7v/)
+![Unit Setup](https://s1.postimg.org/4bqgaw43db/Untitled.png)
