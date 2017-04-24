@@ -5,6 +5,7 @@
 
 * [Contribution](#contribution)
     * [Naming convention](#naming-convention)
+    * [Unit setup](#Unit-setup)
     * [Textures](#textures)
     * [Tiles](#tiles) 
     * [Objects](#objects)
@@ -20,6 +21,12 @@
 #### Naming convention
 
 When naming assets, please enforce logical naming (an barrel object would be named a barrel while a charater sounds would be named something like characterAction01). The start of the name should be with lower case, and new words should be upper case without space or underscore. Examples on this can be characterAction01, doorAnimated02, musicCalm01 and so on. Number the assets is preferable when there are several different types of assets with same name. Numbering should be done two diggits, as we suspect we won't get over 99 different assets with same name.
+
+#### Unit setup
+
+When modelling an issue that might be present is the scaling, as different systems and programs use different scaling or units as it is called. Currently we are using the scalling showed in the picture below, but we accept other as well. Make sure to include the unit setup if you use other settings when uploading models.
+![Unit reference picture](https://s1.postimg.org/4bqgaw43db/Untitled.png)
+
 
 #### Textures
 
@@ -63,4 +70,4 @@ As this game is a roguelike game, there is no clear main scenario or story. The 
 ## Credits
 https://github.com/Cmoen11/BuffBot for guidance of functional readme / instruction page 
 
-![Unit Setup](https://s1.postimg.org/4bqgaw43db/Untitled.png)
+
