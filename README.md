@@ -5,7 +5,7 @@
 
 * [Contribution](#contribution)
     * [Naming convention](#naming-convention)
-    * [Unit setup](#Unit-setup)
+    * [Unit setup](#unit-setup)
     * [Textures](#textures)
     * [Tiles](#tiles) 
     * [Objects](#objects)
