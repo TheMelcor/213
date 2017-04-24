@@ -4,7 +4,7 @@
 ## Table of contents
 
 * [Contribution](#contribution)
-    * [Naming convention](naming-convention)
+    * [Naming convention](**naming-convention)
     * [Textures](#textures)
     * [Tiles (the environment)](#tiles-(the-environment))
     * [Objects](#objects)
