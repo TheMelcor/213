@@ -10,7 +10,7 @@
     * [Objects](#objects)
     * [Game characters](#game-characters)
     * [Audio](#audio)
-* [Scenaros / winning conditions](#scenaros-/-winning-conditions]
+* [Scenarios / winning conditions](#scenaros-/-winning-conditions)
 * [License](#license)
 * [Credits](#credits)
 
@@ -41,7 +41,7 @@ Game characters are an generalization of both human player and the AI. It can be
 
 Audio is the sounds of the game, both in terms of character / object sounds but also music. The format to use ise MP3 in either 128kbps or 256kbps bitrate. Please check the section and issues / project to see what sounds is allready implemented and which one is neeeded. Also keep in mind peaks and lows on audio recordings to prevent audio clipping or noticeable disturbance. 
 
-**Scenaros / winning conditions**
+**Scenarios / winning conditions**
 
 As this game is a roguelike game, there is no clear main scenario or story. The rules that follows the levels can change from level to level, and the goal itself is to master the rules of the said levels to advance to next one. As with the rest of the game we want to be able to add several new rules as we progress further into the development, and not locking ourselves into certain rules. The current rules, or winning conditions for completeing the levels is at current stage following: 
 List of currently planned winning conditions / scenarios: 
