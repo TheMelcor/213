@@ -6,7 +6,7 @@
 * [Contribution](#contribution)
     * [Naming convention](#naming-convention)
     * [Textures](#textures)
-    * [Tiles (the environment)](#tiles-(the-environment)) 
+    * [Tiles (the environment)](#tiles) 
     * [Objects](#objects)
     * [Game characters](#game-characters)
     * [Audio](#audio)
@@ -25,7 +25,7 @@ When naming assets, please enforce logical naming (an barrel object would be nam
 
 All textures, regardless if they belong to tiles, objects or characters are to be placed in the texture folder. The texture format is not important, but preferable png due to it's alpha channel support (transparent colors and some other features that the jpg format do not support). Also it is preferable that textures are in size of power of two (like 128 / 128 , 256 / 256, 512 / 512, 1024 / 1024 and so on). It is possible to have various sizes, like 1025 / 256, but keep power of two in mind.
 
-### Tiles (the environment)
+### Tiles
 
 Tiles are the enviroment itself (and in plains case is a grassy, green and lush enviroment). The game will support several enviroments, but currently the main focus is to create tileset for the planes enviroment. The enviroment have a set size, due to randomnice tile feature (different types of same tileset can be put togheter to create some variety and re-playability). The size is set to 10 x 10 metres. Hight is not specified yet, but currently the standard has been set to 4 metres (rock sides and so on). Preferable the tiles should be seamless, that means being able to be connected with other tiles without too much of a obvious seam. If there are limitation to which direction the tiles can be connected it's preferable that the name suggest what limitations there are. For example plainsWestSea suggests that the tile can be conntected to other tiles from north, south and west (unless that is a sea tile). Lastly the object itself should be named the same as the model files as it, again, makes the work easier to combine tiles.
 
