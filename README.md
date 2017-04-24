@@ -10,7 +10,7 @@
     * [Objects](#objects)
     * [Game characters](#game-characters)
     * [Audio](#audio)
-* [Scenarios / winning conditions](#scenaros-/-winning-conditions)
+* [Scenarios / winning conditions](#scenarios-/-winning-conditions)
 * [License](#license)
 * [Credits](#credits)
 
