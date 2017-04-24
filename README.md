@@ -4,7 +4,7 @@
 ## Table of contents
 
 * [Contribution](#contribution)
-    * [Naming convention](**naming-convention**)
+    * [Naming convention](#naming-convention)
     * [Textures](#textures)
     * [Tiles (the environment)](#tiles-(the-environment))
     * [Objects](#objects)
@@ -17,7 +17,7 @@
 
 ### Contribution
 
-**Naming convention**
+# Naming convention
 
 When naming assets, please enforce logical naming (an barrel object would be named a barrel while a charater sounds would be named something like characterAction01). The start of the name should be with lower case, and new words should be upper case without space or underscore. Examples on this can be characterAction01, doorAnimated02, musicCalm01 and so on. Number the assets is preferable when there are several different types of assets with same name. Numbering should be done two diggits, as we suspect we won't get over 99 different assets with same name.
 
@@ -44,7 +44,6 @@ Audio is the sounds of the game, both in terms of character / object sounds but 
 ## Winning conditions
 
 As this game is a roguelike game, there is no clear main scenario or story. The rules that follows the levels can change from level to level, and the goal itself is to master the rules of the said levels to advance to next one. As with the rest of the game we want to be able to add several new rules as we progress further into the development, and not locking ourselves into certain rules. The current rules, or winning conditions for completeing the levels is at current stage following: 
-List of currently planned winning conditions / scenarios: 
 
 1: Find door and interact with it - standing on certain point reveals doors or hit a collision box / trigger box to reveal door.
 
