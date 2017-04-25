@@ -12,6 +12,7 @@
     * [Game characters](#game-characters)
     * [Audio](#audio)
 * [Winning conditions](#winning-conditions)
+* [Camera](#camera)
 * [License](#license)
 * [Credits](#credits)
 
@@ -62,6 +63,10 @@ As this game is a roguelike game, there is no clear main scenario or story. The 
 
 5: Kill certain character to open locked door - killing an enemy based on combat unlocks the door which is visible from the start.  
 
+
+## Camera
+
+The idea is to have an isometric camera angle. Currently the camera angle is set to aprox. 53,5 degrees with full rotation to left and right, utilizing the 3D structure of the game and it's 3D modells. Please note that the camera angle behaves differently on 16/9 and 4/3 monitors, therefore we advice reading more about this at following link: http://www.wolframalpha.com/input/?i=atan(4%2F3) to calculate ideal camera angles. 
 
 ## License
 [GPL3.0](https://github.com/TheMelcor/213/blob/master/LICENSE)
