@@ -1,7 +1,7 @@
 Information about level 04: 
 
 **Screenshot:**
-![screenshot](TheMelcor/213/dev/213-game/Assets/completeLevels/level04/level04Preveiw.JPG?raw=true "Optional Title")
+[![level04Preveiw.jpg](https://s18.postimg.org/kuvorpgll/level04_Preveiw.jpg)](https://postimg.org/image/dewf5wsw5/)
 
 **Dimensions of scene (in 3DS Max, remember to flip Y / Z):**
 x: 104,78 meters
