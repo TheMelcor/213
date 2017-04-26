@@ -1,4 +1,4 @@
-Information about level 05: 
+Information about level 04: 
 
 **Screenshot:**
 ![screenshot](https://github.com/TheMelcor/213/dev/213-game/Assets/completeLevels/level04/level04Preveiw.JPG)
