@@ -12,6 +12,7 @@
     * [Game characters](#game-characters)
     * [Audio](#audio)
 * [Winning conditions](#winning-conditions)
+* [Complete levels](#complete-levels)
 * [Camera](#camera)
 * [License](#license)
 * [Credits](#credits)
@@ -63,6 +64,10 @@ As this game is a roguelike game, there is no clear main scenario or story. The 
 
 5: Kill certain character to open locked door - killing an enemy based on combat unlocks the door which is visible from the start.  
 
+
+## Complete levels
+
+As we progressed and are progressing in the project, it turns out that the randomization of tiles is more difficult than first anticipated. We therefor will not have time to implement this feature within the timeframe of this project (deadline is 05 of july). Therefor we have desided to built the levels from scratch, one at a time. The levels that are complete are to be put within a subfolder of completeLevels, and should be named logically. In other words, level04 has it's own subfolder which contains a readme with information about the model as well as the model itself. Please see the readme and copy it's structure when making new levels. To save space you can xref (reference) objects which is allready created for the game in the object folder as well as textures. In addition, please try to enforce the modeling rules establised within the [Contribution](#contribution) part of this documentation. 
 
 ## Camera
 
