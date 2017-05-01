@@ -18,4 +18,4 @@ FBX only
 
 ## Filesize:
 
-15 283 KB
+18 300 KB
