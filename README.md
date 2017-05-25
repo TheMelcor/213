@@ -47,4 +47,5 @@ Audio is the sounds of the game, both in terms of character / object sounds but 
 
 ## Credits
 https://github.com/Cmoen11/BuffBot for guidance of functional readme / instruction page
+
 http://soundimage.org by Eric Matyas for the music in the game. Great page and great sharing philosophy 
