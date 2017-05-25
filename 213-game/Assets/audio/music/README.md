@@ -4,12 +4,21 @@ Also, try giving the audio pieces sensible names, meaning the naming should sugg
 ### Current music list
 
 1: adventurousMusic01
+
 2: menuMusic
+
 3: puzzleMusic01
+
 4: puzzleMusic02
+
 5: puzzleMusic03
+
 6: relaxingMusic01
+
 7: relaxingMusic02
+
 8: relaxingMusic03
+
 9: wonderingMusic01
+
 10: wonderingMusic02
