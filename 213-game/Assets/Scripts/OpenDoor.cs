@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class OpenDoor : MonoBehaviour {
     public GameObject DoorObject;
+
 
     public OpenDoor(GameObject obj)
     {
@@ -13,7 +15,6 @@ public class OpenDoor : MonoBehaviour {
     
     public void start()
     {
-
     }
 
     public void update()
@@ -31,4 +32,5 @@ public class OpenDoor : MonoBehaviour {
             Destroy(gameObject);
         }
     }
+
 }
