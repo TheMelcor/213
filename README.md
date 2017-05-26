@@ -95,4 +95,4 @@ http://soundimage.org by Eric Matyas for the music in the game. Great page and g
 
 
 
-### [Back to top](#table-of-contents)
+[Back to top](#table-of-contents)
