@@ -19,6 +19,7 @@
 * [Credits](#credits)
 
 
+
 ## Introduction
 
 We're thankfull for any interest or contributions you might have to this project! Contributions can be in form of assets (specified in the contribution paragraph), ideas or feedback. This project is part of our semester assignment for the course IS-213; Open Source Project, and the idea is to create an project of our own interest and trying to related it to the Open Source community - be it the tools or platform for cooperation. This GIT page is meant to cover this, and all our assets are open to the public through the GPL3.0 license. There also is a report which will be the theoretical fundation for this project, where we elaborate more on theories and in-dept explenation of file formats, requirements and tools. The link for this will be pasted here when the final report is ready. While it is normal to refer to "Read the manual" if you are unsure how to contribute or show interest for this project, we try to strive towards an more including environment. Feel free to drop any of the core members an email and we'll try to best of our abilities to answer any questions you might have regarding this project. Also, if you want to fork our and continue your own project based on this fundation, we're equally happy with that as well, just remember the credits if you use the assets we have used of other people's work. 
@@ -90,3 +91,5 @@ https://github.com/Cmoen11/BuffBot for guidance of functional readme / instructi
 
 http://soundimage.org by Eric Matyas for the music in the game. Great page and great sharing philosophy 
 
+
+#### [Back to top](#back-to-top)
