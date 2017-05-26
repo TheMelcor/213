@@ -3,6 +3,7 @@
 
 ## Table of contents
 
+* [Introduction](#introduction)
 * [Contribution](#contribution)
     * [Naming convention](#naming-convention)
     * [Unit setup](#unit-setup)
