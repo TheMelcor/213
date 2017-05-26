@@ -80,4 +80,6 @@ The idea is to have an isometric camera angle. Currently the camera angle is set
 ## Credits
 https://github.com/Cmoen11/BuffBot for guidance of functional readme / instruction page 
 
+
 http://soundimage.org by Eric Matyas for the music in the game. Great page and great sharing philosophy 
+
