@@ -90,6 +90,8 @@ https://github.com/Cmoen11/BuffBot for guidance of functional readme / instructi
 http://soundimage.org by Eric Matyas for the music in the game. Great page and great sharing philosophy 
 
 
+http://tf3dm.com/3d-model/rigged-stick-figure-by-swp-2-55987.html by swpws for the character model
+
 
 [Back to top](#table-of-contents)
 
