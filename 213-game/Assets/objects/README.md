@@ -58,3 +58,13 @@ Objects are the things you will enounter / see in the enviroment itself. This me
 27: woodCrate03Filled
 
 28: drawBridgeLeverAnimated
+
+29: smallTree01
+
+30: smallBush01
+
+31: smallBush01
+
+32: smallBush02
+
+33: smallBush03
