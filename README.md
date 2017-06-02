@@ -1,5 +1,7 @@
 # The Game (obvious placeholder is obvious)
 
+Link to GitHub page (the game's homepage): https://themelcor.github.io/213/
+
 
 ## Table of contents
 
