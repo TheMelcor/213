@@ -28,7 +28,7 @@ background: #f04966;
 
 #section1 {
   background: #fafafa;
-  min-height: 85vh;
+  min-height: 80vh;
   justify-content: center;
   align-items: center;
   display: inline-flex;
@@ -145,6 +145,7 @@ background: #f04966;
     .pagination .next:hover span {
       opacity: 1;
       transition-delay: 0.15s;
+      background: #fff;
     }
   .pagination .prev::before {
     left: 20px;
@@ -315,7 +316,7 @@ background: #f04966;
   background: #fafafa;
   text-align: center;
  padding-top: 5vh;
- padding-bottom: 5vh;
+ padding-bottom: 10vh;
  border-top: 1px dashed #d3d3d3;
 }
 
@@ -348,11 +349,6 @@ background: #f04966;
   margin: 0 auto;
 }
 
-#section4 #line {
-  border-top: 2px solid #000;
-  width: 100px;
-  text-align: center;
-}
 
 .contentBox {
   width: 55vw;
